@@ -1,0 +1,17 @@
+.formBox{
+    -fx-background-color:#FFFFFF;
+    -fx-border-color: #663399;
+    -fx-border-width: 2px;
+    -fx-border-radius: 3px;
+}
+
+.formTitleLabel{
+    -fx-font-size: 20px;
+}
+
+.formSubtitleLabel{
+    -fx-font-size: 16px;
+}
+.formLabel{
+    -fx-font-weight: bold;
+}

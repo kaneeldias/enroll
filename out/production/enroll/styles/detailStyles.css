@@ -1,0 +1,31 @@
+.nameLabel{
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.subtitleLabel{
+    -fx-font-size: 16px;
+}
+
+.infoBoxHeader{
+    -fx-background-color:#663399;
+    -fx-padding: 10px;
+}
+
+.infoBoxHeader Label{
+    -fx-text-fill:#FFFFFF;
+}
+
+.infoBoxContent{
+    -fx-padding: 10px;
+}
+
+.infoBox{
+    -fx-background-color:#FFFFFF;
+    -fx-border-color: #663399;
+    -fx-border-width: 2px;
+    -fx-border-radius: 3px;
+    -fx-border-insets: 20px;
+    -fx-background-insets: 20px;
+}
+
